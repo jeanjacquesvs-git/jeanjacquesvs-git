@@ -27,7 +27,7 @@ I'm a passionate **Computer Science Graduate** with experience in **Python, Java
 
 #### Coin Swap Search AI
 
-<img width="1016" height="288" alt="image" src="https://github.com/user-attachments/assets/33a3f633-c6c6-4943-921a-8bad4189a627" />
+<img width="300 height="288" alt="image" src="https://github.com/user-attachments/assets/33a3f633-c6c6-4943-921a-8bad4189a627" />
 
 Coin Swap Search AI is a heuristic-based state-space search puzzle that rearranges colored coins into a goal configuration using valid slide and jump moves. Built with Java, this project demonstrates my ability to model problems as search spaces, design admissible heuristics, and implement priority-based search algorithms.
 You can check out the repository here.
