@@ -25,7 +25,7 @@ I'm a passionate **Computer Science Graduate** with experience in **Python, Java
 
 ## Featured Projects 💻
 
-## Coin Swap Search AI
+### Coin Swap Search AI
 
 <img width="1016" height="288" alt="image" src="https://github.com/user-attachments/assets/33a3f633-c6c6-4943-921a-8bad4189a627" />
 
