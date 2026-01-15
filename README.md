@@ -34,15 +34,7 @@ You can check out the repository here.
 
 #### Skills demonstrated:
 
-State-space modeling
-
-Heuristic design
-
-Search algorithms
-
-Algorithmic problem solving
-
-Java programming
+State-space modeling, Heuristic design, Search algorithms, Algorithmic problem solving, Java programming
 
 Find the link to my project here: https://github.com/jeanjacquesvs-git/coin-swap-search-ai
 
