@@ -41,13 +41,11 @@ I'm a passionate **Computer Science Graduate** with experience in **Python, Java
 
 ## Get in Touch 📬
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-Jeanjacques.vs@gmail.com
-
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-) 
 
 **https://www.linkedin.com/in/jean-van-schalkwyk-1383353a4/**
 
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
+Jeanjacques.vs@gmail.com
 
