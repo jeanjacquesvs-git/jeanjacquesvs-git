@@ -15,16 +15,15 @@ I'm a passionate **Computer Science Graduate** with experience in **Python, Java
 ## My Skills 🧠
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-
+![image]()
+![image]()
+![image]()
+![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![image]()
+![image]()
+![image](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![image](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
@@ -44,7 +43,7 @@ I'm a passionate **Computer Science Graduate** with experience in **Python, Java
 
 ## Get in Touch 📬
 
-- **https://www.linkedin.com/in/jean-van-schalkwyk-1383353a4/** (Linkedin)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-) **https://www.linkedin.com/in/jean-van-schalkwyk-1383353a4/** (Linkedin)
 - **https://www.instagram.com/jean_dj_chapo/?hl=en** (Instagram)
 
 
