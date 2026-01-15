@@ -33,10 +33,15 @@ Coin Swap Search AI is a heuristic-based state-space search puzzle that rearrang
 You can check out the repository here.
 
 Skills demonstrated:
+
 State-space modeling
+
 Heuristic design
+
 Search algorithms
+
 Algorithmic problem solving
+
 Java programming
 
 ## Get in Touch 📬
