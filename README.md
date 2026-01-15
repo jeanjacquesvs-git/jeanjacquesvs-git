@@ -6,7 +6,7 @@
 
 I'm a passionate **Computer Science Graduate** with experience in **Python, Java, C, Delphi, SQL, R, SAS, Assembly, Wireshark, Raspberry Pi, Cybersecurity, Linux (Kali Linux), Machine Learning, AI Integration, NotebookLM, UML, ER Modelling, Structured Pseudocode**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Kali Linux**
+- 🌱 Currently learning: **Penetration testing**
 - 🔭 Working on: **A Custom DJ App for my events company**
 - 🌍 Languages: **Afrikaans and English**
 - 📫 How to reach me: **jeanjacques.vs@gmail.com**
