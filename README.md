@@ -25,17 +25,19 @@ I'm a passionate **Computer Science Graduate** with experience in **Python, Java
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+Coin Swap Search AI
 
-![Project 1 Screenshot](project_1_screenshot_url)
+(Screenshot: state space / console output / diagram)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+Coin Swap Search AI is a heuristic-based state-space search puzzle that rearranges colored coins into a goal configuration using valid slide and jump moves. Built with Python, this project demonstrates my ability to model problems as search spaces, design admissible heuristics, and implement priority-based search algorithms.
+You can check out the repository here.
 
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+Skills demonstrated:
+State-space modeling
+Heuristic design
+Search algorithms
+Algorithmic problem solving
+Java programming
 
 ## Get in Touch 📬
 
