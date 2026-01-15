@@ -1,6 +1,7 @@
-# Hi there, I'm Jean! 👋
+
 ![linkedinbannerregte](https://github.com/user-attachments/assets/04f1e41c-6e1b-4ff9-82ac-a3d17a021cf9)
 
+# Hi there, I'm Jean! 👋
 
 ## About Me 🚀
 
