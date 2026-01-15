@@ -1,6 +1,7 @@
 # Hi there, I'm Jean! 👋
 
-![Banner Image](your_banner_image_url_here)
+![linkedinbanner](https://github.com/user-attachments/assets/9c468864-1392-4d98-9ff4-9ebaec1707eb)
+
 
 ## About Me 🚀
 
