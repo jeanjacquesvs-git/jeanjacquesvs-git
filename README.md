@@ -32,7 +32,7 @@ Coin Swap Search AI
 Coin Swap Search AI is a heuristic-based state-space search puzzle that rearranges colored coins into a goal configuration using valid slide and jump moves. Built with Python, this project demonstrates my ability to model problems as search spaces, design admissible heuristics, and implement priority-based search algorithms.
 You can check out the repository here.
 
-Skills demonstrated:
+##Skills demonstrated:
 
 State-space modeling
 
