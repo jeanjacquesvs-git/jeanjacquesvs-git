@@ -4,8 +4,8 @@
 
 I'm a passionate **Computer Science Graduate** with experience in **Python, Java, C, Delphi, SQL, R, SAS, Assembly, Wireshark, Raspberry Pi, Cybersecurity, Kali Linux, Machine Learning, AI Integration, NotebookLM, UML, ER Modelling, Structured Pseudocode**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Penetration testing**
-- 🔭 Working on: **An app helping DJ's with their admin for my events company integrated with gemini 2.5**
+- 🌱 Currently learning: **CTF on TRYHACKME**
+- 🔭 Working on: **An AI-powered DJ app that automates administrative tasks using Firebase and Gemini 2.5.**
 - 🌍 Languages: **Afrikaans and English**
 - 📫 How to reach me: **jeanjacques.vs@gmail.com**
 - ⚡ Fun fact: **I am a wedding DJ**
