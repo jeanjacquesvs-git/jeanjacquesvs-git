@@ -7,7 +7,7 @@
 I'm a passionate **Computer Science Graduate** with experience in **Python, Java, C, Delphi, SQL, R, SAS, Assembly, Wireshark, Raspberry Pi, Cybersecurity, Linux (Kali Linux), Machine Learning, AI Integration, NotebookLM, UML, ER Modelling, Structured Pseudocode**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Penetration testing**
-- 🔭 Working on: **A Custom DJ App for my events company**
+- 🔭 Working on: **An app helping DJ's with their admin for my events company integrated with gemini 2.5**
 - 🌍 Languages: **Afrikaans and English**
 - 📫 How to reach me: **jeanjacques.vs@gmail.com**
 - ⚡ Fun fact: **I am a wedding DJ**
@@ -24,8 +24,6 @@ I'm a passionate **Computer Science Graduate** with experience in **Python, Java
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![image](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![image](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
