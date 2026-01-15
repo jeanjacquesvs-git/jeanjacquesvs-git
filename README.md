@@ -44,6 +44,8 @@ Algorithmic problem solving
 
 Java programming
 
+Find the link to my project here: https://github.com/jeanjacquesvs-git/coin-swap-search-ai
+
 ## Get in Touch 📬
 
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-) 
