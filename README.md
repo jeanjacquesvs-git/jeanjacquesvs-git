@@ -2,7 +2,7 @@
 ![linkedinbannerregte](https://github.com/user-attachments/assets/04f1e41c-6e1b-4ff9-82ac-a3d17a021cf9)
 ## About Me 🚀
 
-I'm a passionate **Computer Science Graduate** with experience in **Python, Java, C, Delphi, SQL, R, SAS, Assembly, Wireshark, Raspberry Pi, Cybersecurity, Kali Linux, Machine Learning, AI Integration, NotebookLM, UML, ER Modelling, Structured Pseudocode**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Computer Science Graduate** with experience in **Python, Java, C#, C, Delphi, SQL, R, SAS, Assembly, Wireshark, Raspberry Pi, Cybersecurity, Kali Linux, Machine Learning, AI Integration, NotebookLM, UML, ER Modelling, Structured Pseudocode**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **CTF on TRYHACKME**
 - 🔭 Working on: **An AI-powered DJ app that automates administrative tasks using Firebase and Gemini 2.5.**
